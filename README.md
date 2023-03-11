@@ -7,7 +7,7 @@
 1. 确认你已经安装了Python 3.x。
 2. 下载本程序的源代码。
 3. 安装程序所需的依赖库。你可以在命令行中使用以下命令安装：`pip install -r requirements.txt`
-4. 运行程序。你可以在命令行中使用以下命令运行：`python github_download.py`。
+4. 运行程序。你可以在命令行中使用以下命令运行：`python git-ac.py`。
 
 ## 程序使用
 
